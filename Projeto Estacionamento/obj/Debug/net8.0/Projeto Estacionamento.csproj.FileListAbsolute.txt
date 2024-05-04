@@ -1,0 +1,14 @@
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.exe
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.deps.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.runtimeconfig.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.AssemblyInfoInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.AssemblyInfo.cs
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\refint\Projeto Estacionamento.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.genruntimeconfig.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Estacionamento\obj\Debug\net8.0\ref\Projeto Estacionamento.dll
